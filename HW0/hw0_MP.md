@@ -7,6 +7,8 @@ Name: My (Emmy) Phung <br>
 
 NetID: mtp363
 
+<div style=”page-break-after: always;”></div>
+
 #### Question 1: Data Science in Python
 
 Rate your comfort level with Python:
@@ -41,6 +43,8 @@ Which of the following topics are you already familiar with from
 - **Overfitting**
 - **Sample bias**
 - **Precision/recall, AUC, ROC curves, confusion matrices**
+
+<div style=”page-break-after: always;”></div>
 
 #### Question 2: Math Experience
 
